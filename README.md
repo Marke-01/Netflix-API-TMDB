@@ -27,6 +27,9 @@ Users should be able to:
 <img width="1272" alt="Screenshot 2023-11-03 at 21 49 43" src="https://github.com/Marke-01/Netflix-API-TMDB/assets/98606327/c7883f7a-0de6-4713-93ee-9d4ba9077a7a">
 <img width="1272" alt="Screenshot 2023-11-03 at 21 50 10" src="https://github.com/Marke-01/Netflix-API-TMDB/assets/98606327/aeebb688-9fe1-4105-be0c-361705e17d30">
 
+### Links
+
+- Live Execution : https://marke-01.github.io/Netflix-API-TMDB/
 
 ## My process
 
